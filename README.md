@@ -244,12 +244,13 @@ E-Commerce-Sales-Customer-Analytics/
 │   └── products.csv
 │
 ├── sql/
-│   ├── 01_data_exploration.sql
-│   ├── 02_basic_queries.sql
-│   ├── 03_aggregate_functions.sql
-│   ├── 04_joins.sql
-│   ├── 05_business_analysis.sql
-│   └── 06_advanced_sql.sql
+│   ├── 01_creation of database and tables.sql
+|   ├── 02_data validation.sql
+│   ├── 03_basic.sql
+│   ├── 04_aggregate_functions.sql
+│   ├── 05_joins.sql
+│   ├── 06_business_analysis.sql
+│   └── 07_advanced_sql.sql
 │
 └── README.md
 ```
